@@ -1,0 +1,8 @@
+{
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django"
+  ],
+  "git.ignoreLimitWarning": true,
+  "python.pythonPath": "server/.venv/bin/python"
+}
